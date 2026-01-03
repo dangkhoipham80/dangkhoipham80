@@ -80,32 +80,72 @@
 
 #### **Backend Development**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,go,python,nodejs,spring,nestjs,express,django,flask" alt="Backend" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" title="Java"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" title="Go"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" title="Python"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" title="Node.js"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="100" title="Spring Boot"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" title="NestJS"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100" title="Express.js"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100" title="Django"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100" title="Flask"/>
 </p>
 
 #### **Frontend Development**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,angular,vue,typescript,javascript,html,css,tailwind,bootstrap,sass,redux" alt="Frontend" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100" title="React"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100" title="Angular"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="100" title="Vue.js"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" title="TypeScript"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100" title="JavaScript"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" title="HTML5"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100" title="CSS3"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36" width="100" title="Tailwind CSS"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="100" title="Bootstrap"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100" title="Sass"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" title="Redux"/>
 </p>
 
 #### **Mobile Development**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,android,react" alt="Mobile" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="100" title="Flutter"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100" title="Dart"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100" title="Kotlin"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100" title="Android"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100" title="React Native"/>
 </p>
 
 #### **Database & Caching**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,oracle" alt="Database" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" title="PostgreSQL"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" title="MySQL"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" title="MongoDB"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="100" title="Redis"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" title="Oracle"/>
 </p>
 
 #### **DevOps & Cloud**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,firebase,jenkins,nginx,grafana,kafka" alt="DevOps" />
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100" title="Docker"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100" title="Kubernetes"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100" title="AWS"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100" title="GCP"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="100" title="Firebase"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" title="Jenkins"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="100" title="Nginx"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36" width="100" title="Grafana"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100" title="Kafka"/>
 </p>
 
 #### **Tools & Others**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,linux,bash,graphql,opencv,pytorch,tensorflow" alt="Tools" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" title="Git"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" title="Linux"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100" title="Bash"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" title="GraphQL"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" title="OpenCV"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100" title="PyTorch"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100" title="TensorFlow"/>
 </p>
 
 ---
@@ -262,3 +302,128 @@
 <p align="center">
   <b>⭐️ From <a href="https://github.com/dangkhoipham80">dangkhoipham80</a> | Let's build something amazing together! 🚀</b>
 </p>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500">
+
+# 🎮 ME GAME MET NGHI 🎮
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=GAMING+CONTENT+CREATOR;EPIC+GAMEPLAY+%26+REVIEWS;LEVEL+UP+YOUR+EXPERIENCE" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+
+## 🕹️ WHAT'S IN MY CHANNEL?
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/nolan/96/controller.png" alt="Gameplay" width="80"/>
+<br><br>
+<b>🎮 Epic Gameplay</b>
+<br><br>
+<sub>AAA & Indie Games</sub>
+<br>
+<sub>Full Walkthroughs</sub>
+<br>
+<sub>Boss Fights & Challenges</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/nolan/96/light.png" alt="Tips" width="80"/>
+<br><br>
+<b>💡 Pro Tips & Tricks</b>
+<br><br>
+<sub>Game Strategies</sub>
+<br>
+<sub>Hidden Secrets</sub>
+<br>
+<sub>Achievement Guides</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/nolan/96/like.png" alt="Reviews" width="80"/>
+<br><br>
+<b>⭐ Honest Reviews</b>
+<br><br>
+<sub>Game Analysis</sub>
+<br>
+<sub>Worth It or Not?</sub>
+<br>
+<sub>Recommendations</sub>
+</td>
+</tr>
+</table>
+
+<br>
+
+## 💥 READY TO LEVEL UP? 💥
+
+<a href="https://www.youtube.com/@megamemetnghi?sub_confirmation=1">
+<img src="https://img.shields.io/badge/🎮_SUBSCRIBE_NOW!-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=black" height="50"/>
+</a>
+
+<br><br>
+
+[![YouTube Channel](https://img.shields.io/badge/ME_GAME_MET_NGHI-Channel-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@megamemetnghi)
+![Status](https://img.shields.io/badge/STATUS-🔴_ACTIVE-brightgreen?style=for-the-badge)
+![Content](https://img.shields.io/badge/CONTENT-Weekly_Videos-blue?style=for-the-badge)
+
+<br>
+
+<sub>⚡ *Join thousands of gamers in the community!* ⚡</sub>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+
+## 🌟 WHY SUBSCRIBE?
+
+```
+🎮  New gameplay videos every week
+🔴  Live streams on weekends
+🎯  Pro strategies & hidden secrets
+🎭  Entertainment & funny moments
+💬  Active community & Discord server
+🎁  Regular giveaways & contests
+🏆  Exclusive member perks
+⚡  Early access to content
+```
+
+<br>
+
+## 🎲 GAMES I PLAY
+
+<table align="center">
+<tr>
+<td align="center">🎯 Action & Adventure</td>
+<td align="center">🏎️ Racing Games</td>
+<td align="center">⚔️ RPGs</td>
+</tr>
+<tr>
+<td align="center">🔫 FPS & Shooters</td>
+<td align="center">🎮 Indie Gems</td>
+<td align="center">🌍 Open World</td>
+</tr>
+</table>
+
+<br>
+
+## 📊 CHANNEL STATS
+
+<img src="https://img.shields.io/youtube/channel/subscribers/UC-YourChannelID?style=social&logo=youtube" alt="YouTube Subscribers"/>
+<img src="https://img.shields.io/youtube/channel/views/UC-YourChannelID?style=social&logo=youtube" alt="YouTube Views"/>
+
+<br><br>
+
+---
+
+<br>
+
+### ⚡ DON'T JUST WATCH GAMES... EXPERIENCE THEM! ⚡
+
+<sub>*Hit that subscribe button and join the gaming adventure!*</sub>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,23,30&height=100&section=footer" width="100%"/>
+
+</div>
