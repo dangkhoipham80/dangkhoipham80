@@ -251,7 +251,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
----
 
 ### 🎨 Featured Projects
 
@@ -302,16 +301,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</p>
-
-<p align="center">
-  <b>⭐️ From <a href="https://github.com/dangkhoipham80">dangkhoipham80</a> | Let's build something amazing together! 🚀</b>
-</p>
-
----
-
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500">
@@ -325,44 +314,42 @@
 ## 🕹️ WHAT'S IN MY CHANNEL?
 
 <table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/nolan/96/controller.png" alt="Gameplay" width="80"/>
-<br><br>
-<b>🎮 Epic Gameplay</b>
-<br><br>
-<sub>AAA & Indie Games</sub>
-<br>
-<sub>Full Walkthroughs</sub>
-<br>
-<sub>Boss Fights & Challenges</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/nolan/96/light.png" alt="Tips" width="80"/>
-<br><br>
-<b>💡 Pro Tips & Tricks</b>
-<br><br>
-<sub>Game Strategies</sub>
-<br>
-<sub>Hidden Secrets</sub>
-<br>
-<sub>Achievement Guides</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/nolan/96/like.png" alt="Reviews" width="80"/>
-<br><br>
-<b>⭐ Honest Reviews</b>
-<br><br>
-<sub>Game Analysis</sub>
-<br>
-<sub>Worth It or Not?</sub>
-<br>
-<sub>Recommendations</sub>
-</td>
-</tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/nolan/96/controller.png" alt="Gameplay" width="80"/>
+      <br><br>
+      <b>🎮 Epic Gameplay</b>
+      <br><br>
+      <sub>AAA & Indie Games</sub>
+      <br>
+      <sub>Full Walkthroughs</sub>
+      <br>
+      <sub>Boss Fights & Challenges</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/nolan/96/light.png" alt="Tips" width="80"/>
+      <br><br>
+      <b>💡 Pro Tips & Tricks</b>
+      <br><br>
+      <sub>Game Strategies</sub>
+      <br>
+      <sub>Hidden Secrets</sub>
+      <br>
+      <sub>Achievement Guides</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/nolan/96/like.png" alt="Reviews" width="80"/>
+      <br><br>
+      <b>⭐ Honest Reviews</b>
+      <br><br>
+      <sub>Game Analysis</sub>
+      <br>
+      <sub>Worth It or Not?</sub>
+      <br>
+      <sub>Recommendations</sub>
+    </td>
+  </tr>
 </table>
-
-<br>
 
 ## 💥 READY TO LEVEL UP? 💥
 
@@ -370,13 +357,9 @@
 <img src="https://img.shields.io/badge/🎮_SUBSCRIBE_NOW!-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=black" height="50"/>
 </a>
 
-<br><br>
-
 [![YouTube Channel](https://img.shields.io/badge/ME_GAME_MET_NGHI-Channel-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@megamemetnghi)
 ![Status](https://img.shields.io/badge/STATUS-🔴_ACTIVE-brightgreen?style=for-the-badge)
 ![Content](https://img.shields.io/badge/CONTENT-Weekly_Videos-blue?style=for-the-badge)
-
-<br>
 
 <sub>⚡ *Join thousands of gamers in the community!* ⚡</sub>
 
@@ -428,21 +411,19 @@
   <b>Hit Subscribe & become part of the journey!</b> 
 </p>
 
-<br>
-
 ## 🎲 GAMES I PLAY
 
 <table align="center">
-<tr>
-<td align="center">🎯 Action & Adventure</td>
-<td align="center">🏎️ Racing Games</td>
-<td align="center">⚔️ RPGs</td>
-</tr>
-<tr>
-<td align="center">🔫 FPS & Shooters</td>
-<td align="center">🎮 Indie Gems</td>
-<td align="center">🌍 Open World</td>
-</tr>
+  <tr>
+    <td align="center">🎯 Action & Adventure</td>
+    <td align="center">🏎️ Racing Games</td>
+    <td align="center">⚔️ RPGs</td>
+  </tr>
+  <tr>
+    <td align="center">🔫 FPS & Shooters</td>
+    <td align="center">🎮 Indie Gems</td>
+    <td align="center">🌍 Open World</td>
+  </tr>
 </table>
 
 <br>
@@ -462,8 +443,16 @@
 
 <sub>*Hit that subscribe button and join the gaming adventure!*</sub>
 
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,23,30&height=100&section=footer" width="100%"/>
 
 </div>
+
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</p>
+
+<p align="center">
+  <b>⭐️ From <a href="https://github.com/dangkhoipham80">dangkhoipham80</a> | Let's build something amazing together! 🚀</b>
+</p>
