@@ -185,16 +185,25 @@
 
 ### 🎯 Current Focus
 
-```text
-┌─────────────────────────────────────────────────────┐
-│  🎯 Building microservices with Go & Spring Boot   │
-│  🌐 Mastering cloud-native architectures            │
-│  📚 Learning advanced system design patterns        │
-│  🤝 Contributing to open source projects            │
-│  💡 Exploring AI/ML integration in applications     │
-└─────────────────────────────────────────────────────┘
-```
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Current%20Focus&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
+
+<div align="center">
+
+| 🎯 Focus Area | 📊 Status | 🔥 Priority |
+|--------------|-----------|-------------|
+| 🏗️ **Microservices with Go & Spring Boot** | `In Progress` | ![High](https://img.shields.io/badge/-High-red) |
+| ☁️ **Cloud-Native Architectures** | `Learning` | ![High](https://img.shields.io/badge/-High-red) |
+| 📚 **Advanced System Design** | `Practicing` | ![Medium](https://img.shields.io/badge/-Medium-orange) |
+| 🤝 **Open Source Contribution** | `Active` | ![Medium](https://img.shields.io/badge/-Medium-orange) |
+| 🤖 **AI/ML Integration** | `Exploring` | ![Low](https://img.shields.io/badge/-Low-yellow) |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
 ---
 
 ### 🎨 Featured Projects
