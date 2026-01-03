@@ -119,8 +119,9 @@
 
 <p align="center">
   <img width="54%" src="https://github-readme-stats-dangkhoipham80.vercel.app/api/top-langs/?username=dangkhoipham80&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
-  <img width="42%" src="https://github-readme-stats-dangkhoipham80.vercel.app/api/wakatime?username=dangkhoipham80&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime" />
+  <img width="42%" src="https://github-readme-stats-dangkhoipham80.vercel.app/api/wakatime?username=9970a8a2-116f-4d28-9a0a-88c9e34e06c9&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime" />
 </p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dangkhoipham80&theme=tokyonight" alt="Profile Summary" />
