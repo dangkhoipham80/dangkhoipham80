@@ -28,7 +28,9 @@
 
 ## About Me
 
-Software Engineer at **FPT Software**, working mainly with **Java** and **Python** on the backend and React/TypeScript on the frontend. Passionate about building scalable systems.
+Software Engineer at **FPT Software**. I build backend services with **Java (Spring Boot)** and **Python (FastAPI)**, and web apps with React and TypeScript.
+
+I put **system design** first: thinking through architecture, trade-offs and scalability before writing code. Stacks change fast in the AI era, so I focus on fundamentals and pick up new technologies quickly when a project needs them.
 
 <table>
   <tr>
@@ -37,19 +39,19 @@ Software Engineer at **FPT Software**, working mainly with **Java** and **Python
   </tr>
   <tr>
     <td><b>Core stack</b></td>
-    <td>Java · Spring Boot · Python · FastAPI · PostgreSQL · React</td>
+    <td>Java · Spring Boot · Python · FastAPI · React · TypeScript</td>
   </tr>
   <tr>
     <td><b>Building</b></td>
     <td><a href="https://github.com/dangkhoipham80/sightline"><b>Sightline</b></a>, the memory &amp; review layer for Claude Code, and <b>JobPilot</b></td>
   </tr>
   <tr>
-    <td><b>Learning</b></td>
-    <td>Microservices, cloud-native architecture, system design, Go</td>
+    <td><b>Focus</b></td>
+    <td>System design, microservices, cloud-native architecture</td>
   </tr>
   <tr>
     <td><b>Ask me about</b></td>
-    <td>Java · Spring Boot · Python · Microservices · System Design</td>
+    <td>System Design · Java · Spring Boot · Python · FastAPI</td>
   </tr>
   <tr>
     <td><b>Portfolio</b></td>
@@ -73,31 +75,24 @@ Software Engineer at **FPT Software**, working mainly with **Java** and **Python
 
 <table>
   <tr>
-    <td width="150"><b>Languages</b></td>
+    <td width="150"><b>Backend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=java,python,ts,js,go&theme=dark" height="40" alt="Java, Python, TypeScript, JavaScript, Go" /><br />
-      <sub><b>Java · Python</b> · TypeScript · JavaScript · Go</sub>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=spring,fastapi,django,flask,nodejs&theme=dark" height="40" alt="Spring Boot, FastAPI, Django, Flask, Node.js" /><br />
-      <sub><b>Spring Boot · FastAPI</b> · Django · Flask · Node.js · Gin</sub>
+      <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi&theme=dark" height="40" alt="Java, Spring Boot, Python, FastAPI" /><br />
+      <sub>Java · Spring Boot · Python · FastAPI</sub>
     </td>
   </tr>
   <tr>
     <td><b>Frontend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,sass,html,css&theme=dark" height="40" alt="React, Next.js, Redux, Tailwind CSS, Bootstrap, Sass, HTML5, CSS" /><br />
-      <sub>React · Next.js · Redux · Tailwind CSS · Bootstrap · Sass · HTML5 · CSS</sub>
+      <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css,threejs&theme=dark" height="40" alt="React, TypeScript, JavaScript, Tailwind CSS, HTML, CSS, Three.js" /><br />
+      <sub>React · TypeScript · JavaScript · Tailwind CSS · HTML · CSS · Three.js</sub>
     </td>
   </tr>
   <tr>
     <td><b>Mobile</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=flutter,kotlin&theme=dark" height="40" alt="Flutter, Kotlin" /><br />
-      <sub>Flutter · Kotlin · React Native</sub>
+      <img src="https://skillicons.dev/icons?i=kotlin,react&theme=dark" height="40" alt="Kotlin, React Native" /><br />
+      <sub>Kotlin · React Native</sub>
     </td>
   </tr>
   <tr>
@@ -277,9 +272,9 @@ Software Engineer at **FPT Software**, working mainly with **Java** and **Python
 
 | Focus area | Status | Priority |
 |:-----------|:-------|:---------|
-| **Microservices with Spring Boot &amp; Go** | `In Progress` | High |
+| **System Design** | `Practicing` | High |
+| **Microservices with Spring Boot** | `In Progress` | High |
 | **Cloud-Native Architectures** | `Learning` | High |
-| **Advanced System Design** | `Practicing` | Medium |
 | **Open Source Contribution** | `Active` | Medium |
 | **AI/ML Integration** | `Exploring` | Low |
 
