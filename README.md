@@ -311,12 +311,8 @@ I put **system design** first: thinking through architecture, trade-offs and sca
 <!-- Sinh tự động mỗi ngày bởi .github/workflows/metrics.yml (lowlighter/metrics) -->
 
 <p>
+  <img width="49.5%" src="metrics/overview.svg" alt="GitHub overview" />
   <img width="49.5%" src="metrics/isocalendar.svg" alt="Contribution calendar" />
-  <img width="49.5%" src="metrics/habits.svg" alt="Coding habits" />
-</p>
-<p>
-  <img width="49.5%" src="metrics/languages.svg" alt="Most used languages" />
-  <img width="49.5%" src="metrics/achievements.svg" alt="Achievements" />
 </p>
 
 <picture>
