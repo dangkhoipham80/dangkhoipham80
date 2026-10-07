@@ -314,10 +314,6 @@ I put **system design** first: thinking through architecture, trade-offs and sca
   <img width="49.5%" src="metrics/overview.svg" alt="GitHub overview" />
   <img width="49.5%" src="metrics/isocalendar.svg" alt="Contribution calendar" />
 </p>
-<p>
-  <img width="49.5%" src="metrics/languages.svg" alt="Most used languages" />
-  <img width="49.5%" src="metrics/lines.svg" alt="Lines of code changed" />
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dangkhoipham80/dangkhoipham80/output/github-contribution-grid-snake-dark.svg" />
